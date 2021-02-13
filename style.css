@@ -1,0 +1,27 @@
+body{
+	border-width: 20px;
+	background-image: url("paper.gif");
+
+}
+
+
+h1 {
+	text-align: center;
+	border-style: outset;
+	color: ;
+
+}
+
+title{
+	text-align: center;
+	color: red;
+	font-family: courier;
+	border-style: solid;
+	border-spacing: inherit;
+}
+form{
+	text-align: center;
+	border-style: ridge;
+	border-top-style: inset;
+	
+}
